@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=42tr&theme=dark)
 
 ![42tr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=42tr&show_icons=true&count_private=true&theme=gotham)
 
