@@ -2,8 +2,8 @@
 ![42tr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=42tr&layout=compact&theme=gotham&langs_count=8) -->
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=42tr&show_icons=true&theme=radical" style="height: 300px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=42tr&layout=compact&theme=gotham&langs_count=8" style="height: 300px">
+    <img src="https://github-readme-stats.vercel.app/api?username=42tr&show_icons=true&theme=radical" style="height: 100px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=42tr&layout=compact&theme=gotham&langs_count=8" style="height: 100px">
 </div>
 
 <!--
