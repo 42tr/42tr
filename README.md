@@ -1,5 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
-<!--START_SECTION:waka-->[\s\S]+<!--END_SECTION:waka-->
+
+![42tr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=42tr&show_icons=true&count_private=true&theme=gotham)
 
 <!--
 **42tr/42tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
