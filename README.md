@@ -1,5 +1,10 @@
-[![42tr's GitHub stats](https://github-readme-stats.vercel.app/api?username=42tr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![42tr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=42tr&layout=compact&theme=gotham&langs_count=8)
+<!-- [![42tr's GitHub stats](https://github-readme-stats.vercel.app/api?username=42tr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![42tr's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=42tr&layout=compact&theme=gotham&langs_count=8) -->
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=42tr&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=42tr&layout=compact&theme=gotham&langs_count=8">
+</div>
 
 <!--
 **42tr/42tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
