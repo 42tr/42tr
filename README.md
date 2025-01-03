@@ -3,7 +3,7 @@
 <h1 align="center">Hi, guys!</h1>
 <span>I'm a full stack developer for the web, just send me an <a href="mailto:sakura.kisia@gmail.com">E-Mail</a> to see how I can help you.</span>
 <br>
-<span>See my <a href="https://42tr.github.io" target="_blank">homepage.</a></span>
+<span>See my <a href="https://42tr.github.io" target="_blank">homepage</a>.</span>
 <br>
 <p align="center">
   <img src="https://count.getloli.com/@42tr?theme=rule34" />
@@ -26,6 +26,19 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 ![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+
+### Middleware
+![ElasticSearch](https://img.shields.io/badge/elasticsearch-black?style=for-the-badge&logo=elasticsearch)
+![Redis](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)
+![Mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)
+![Minio](https://img.shields.io/badge/minio-black?style=for-the-badge&logo=minio)
+
+### DevOps
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![Jenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)
+![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+![Alibabacloud](https://img.shields.io/badge/alibabacloud-black?style=for-the-badge&logo=alibabacloud)
+
 
 ### OS
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
